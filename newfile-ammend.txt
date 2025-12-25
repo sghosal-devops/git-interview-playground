@@ -1,1 +1,0 @@
-this is file to learn ammend feature in git
