@@ -1,1 +1,2 @@
 developer2 is the developer2
+next new line to check git diff
